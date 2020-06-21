@@ -41,7 +41,7 @@
     addGlobalStyle(
       '.key-hint { '+
       '  position: absolute;'+
-      '  margin-left: -25px;'+
+      '  margin-right: -25px;'+
       '  margin-top: -20px;'+
 
     //'  color: #777;'+
@@ -53,12 +53,12 @@
 
       '  width: 20px;'+
       '  height: 20px;'+
-      '  font-size: 12px;'+
+      '  font-size: 10px;'+
       '  font-weight: 700;'+
       '  line-height: 14px;'+
       '  text-align: center;'+
-      '  border-radius: 12px;'+
-      '  padding: 2px;'+
+      '  border-radius: 10px;'+
+      '  padding: 1px;'+
       '}' +
       '' +
       '.'+classNameDisabled+' .key-hint,'+
