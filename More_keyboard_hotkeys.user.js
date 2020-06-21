@@ -11,7 +11,7 @@
 
 (function () {
   // Configuration
-  var keys = '1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  var keys = '123456QWERTZASDFGHYXCVBN';
 
   // React/Duolingo obfuscated class names
   var classNameButton   = '_1HcF0'; // Button representing a word or letter
