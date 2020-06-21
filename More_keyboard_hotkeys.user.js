@@ -41,7 +41,7 @@
     addGlobalStyle(
       '.key-hint { '+
       '  position: absolute;'+
-      '  margin-right: -25px;'+
+      '  margin-left: -25px;'+
       '  margin-top: -20px;'+
 
     //'  color: #777;'+
@@ -51,13 +51,13 @@
       '  background-color: #aaa;'+
       '  border: 1.5px solid #aaa;'+
 
-      '  width: 20px;'+
-      '  height: 20px;'+
-      '  font-size: 10px;'+
+      '  width: 18px;'+
+      '  height: 18px;'+
+      '  font-size: 9px;'+
       '  font-weight: 700;'+
-      '  line-height: 14px;'+
+      '  line-height: 13px;'+
       '  text-align: center;'+
-      '  border-radius: 10px;'+
+      '  border-radius: 9px;'+
       '  padding: 1px;'+
       '}' +
       '' +
