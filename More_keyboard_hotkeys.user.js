@@ -163,10 +163,10 @@
     return true;
   });
 
-  // Make keys customizable
-  if ('localStorage' in window && 'duolingoMoreKeysLayout' in window.localStorage) {
-    keys = window.localStorage.duolingoMoreKeysLayout;
-  }
+ // Make keys customizable
+ //  if ('localStorage' in window && 'duolingoMoreKeysLayout' in window.localStorage) {
+ //   keys = window.localStorage.duolingoMoreKeysLayout;
+ // }
 
   setInterval(checkDom, 100);
   log('"More Duolingo keyboard hotkeys" loaded');
