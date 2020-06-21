@@ -41,7 +41,7 @@
     addGlobalStyle(
       '.key-hint { '+
       '  position: absolute;'+
-      '  margin-left: 25px;'+
+    
       '  margin-top: -30px;'+
 
     //'  color: #777;'+
