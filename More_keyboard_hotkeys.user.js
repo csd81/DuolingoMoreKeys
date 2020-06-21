@@ -42,7 +42,7 @@
       '.key-hint { '+
       '  position: absolute;'+
     
-      '  margin-top: -30px;'+
+ 
 
     //'  color: #777;'+
     //'  background-color: #fff;'+
