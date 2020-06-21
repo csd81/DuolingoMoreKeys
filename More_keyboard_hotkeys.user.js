@@ -40,10 +40,8 @@
   document.addEventListener("DOMContentLoaded", function(event) {
     addGlobalStyle(
       '.key-hint { '+
-      '  position: absolute;'+
-    
- 
-
+      '  position: fixed;'+
+      '  margin-top: -28px;'+
     //'  color: #777;'+
     //'  background-color: #fff;'+
     //'  border: 2px solid #dadada; '+
